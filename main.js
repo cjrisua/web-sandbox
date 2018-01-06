@@ -1,3 +1,3 @@
-function myFunction(){
-   document.getElementByIdf("demo").innertHTML="from mac";
+function popup(){
+    document.getElementById("demo").innerHTML = "Hello from mac";
 }
